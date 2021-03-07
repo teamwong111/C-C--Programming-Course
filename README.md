@@ -1,4 +1,4 @@
-# C-C--Programming-Course
+# Cpp-Programming-Course
 [中文文档](https://github.com/teamwong111/Cpp-Programming-Course/blob/main/README-cn.md)
 
 It is my term project repo of Cpp Programming Course(2019-2020) in Tongji University
